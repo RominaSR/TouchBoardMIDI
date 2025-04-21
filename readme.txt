@@ -1,6 +1,6 @@
 # 🌿 Touch Board MIDI App 
 
-A lightweight Python app that transforms capacitive sensor data from the Bare Conductive **Touch Board** into MIDI notes in real time.
+A lightweight Python app that transforms capacitive sensor data from the Bare Conductive Touch Board into MIDI notes in real time.
 
 ## 🎛 Features
 
