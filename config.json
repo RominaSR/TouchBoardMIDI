@@ -1,0 +1,10 @@
+{
+    "baudrate": 9600,
+    "threshold": 9,
+    "electrodes": [0],
+    "note_offset": 12,
+    "midi_port": "Gestionnaire IAC Bus 1",
+    "note_duration_ms": 500,
+    "debounce_ms": 300
+  }
+  
